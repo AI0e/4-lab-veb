@@ -119,6 +119,7 @@ main{
     padding: 20px;
     justify-content: center;
     text-decoration: none;
+    z-index: 2;
 }
 .button_1:hover {
     transform: scale(1.05);
