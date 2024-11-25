@@ -68,7 +68,7 @@ main{
 }
 .first_block{
     flex: 1;
-    gap: 5%;
+    gap: 25px;
     align-self: end;
     align-items: end;
     margin-bottom:2%;
