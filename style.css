@@ -65,6 +65,8 @@ main{
     padding-top: 3rem;
     gap: 2%;
     padding-bottom: 2rem;
+    width: 1000px;
+    margin: auto;
 }
 .first_block{
     flex: 1;
